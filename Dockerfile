@@ -1,4 +1,4 @@
-ARG python_version=3.7
+ARG python_version=3.9
 
 FROM lambci/lambda:build-python${python_version}
 
